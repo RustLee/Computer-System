@@ -1,0 +1,54 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Apr 14 19:57:32 2020
+# Process ID: 43692
+# Current directory: E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_B
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent42232 E:\study\Computer System\Lab2_Handouts_0406_2\Lab2_Handouts_0406_2\Lab_BusControl_B\Lab_BusControl_B.xpr
+# Log file: E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_B/vivado.log
+# Journal file: E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_B\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_B/Lab_BusControl_B.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source topsim_counter.tcl
+restart
+run all
+update_compile_order -fileset sources_1
+close_sim
+launch_simulation
+source topsim_counter.tcl
+restart
+run all
+close_sim
+launch_simulation
+source topsim_counter.tcl
+run all
+close_sim
+launch_simulation
+source topsim_counter.tcl
+restart
+run all
+close_sim
+launch_simulation
+source topsim_counter.tcl
+restart
+run all
+close_sim
+launch_simulation
+source topsim_counter.tcl
+restart
+run all
+close_sim
+launch_simulation
+source topsim_counter.tcl
+restart
+run all
+close_sim
+launch_simulation
+source topsim_counter.tcl
+restart
+run all
+close_sim

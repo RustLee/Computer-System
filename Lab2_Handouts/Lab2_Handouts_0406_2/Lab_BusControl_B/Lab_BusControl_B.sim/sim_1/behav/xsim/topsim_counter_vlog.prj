@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab_BusControl_B.srcs/sources_1/new/controller_counter.v" \
+"../../../../Lab_BusControl_B.srcs/sources_1/new/io_interface_counter.v" \
+"../../../../Lab_BusControl_B.srcs/sources_1/new/top_counter.v" \
+"../../../../Lab_BusControl_B.srcs/sim_1/new/topsim_counter.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

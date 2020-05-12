@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sources_1/new/controller_link.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller_link
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sources_1/new/io_interface_link.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module io_interface_link
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sources_1/new/top_link.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_link
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sim_1/new/topsim_link.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module topsim_link

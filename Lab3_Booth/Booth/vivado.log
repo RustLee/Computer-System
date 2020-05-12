@@ -1,0 +1,74 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Apr 24 13:33:03 2020
+# Process ID: 14640
+# Current directory: E:/study/Computer System/Booth/Booth
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1520 E:\study\Computer System\Booth\Booth\Booth.xpr
+# Log file: E:/study/Computer System/Booth/Booth/vivado.log
+# Journal file: E:/study/Computer System/Booth/Booth\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/study/Computer System/Booth/Booth/Booth.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/vivoda/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:11 . Memory (MB): peak = 686.992 ; gain = 86.270
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+Command: synth_design -rtl -name rtl_1
+Starting synth_design
+Using part: xc7a100tfgg484-1
+Top: booth
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:03 . Memory (MB): peak = 774.879 ; gain = 79.660
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'booth' [E:/study/Computer System/Booth/Booth/Booth.srcs/sources_1/new/booth.v:23]
+	Parameter IDLE bound to: 3'b000 
+	Parameter IMPROVE_MC bound to: 3'b001 
+	Parameter MUL_MOV bound to: 3'b010 
+	Parameter MUL_END bound to: 3'b011 
+INFO: [Synth 8-155] case statement is not full and has no default [E:/study/Computer System/Booth/Booth/Booth.srcs/sources_1/new/booth.v:78]
+WARNING: [Synth 8-567] referenced signal 'x' should be on the sensitivity list [E:/study/Computer System/Booth/Booth/Booth.srcs/sources_1/new/booth.v:76]
+WARNING: [Synth 8-567] referenced signal 'y' should be on the sensitivity list [E:/study/Computer System/Booth/Booth/Booth.srcs/sources_1/new/booth.v:76]
+INFO: [Synth 8-6155] done synthesizing module 'booth' (1#1) [E:/study/Computer System/Booth/Booth/Booth.srcs/sources_1/new/booth.v:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:04 . Memory (MB): peak = 829.160 ; gain = 133.941
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:03 ; elapsed = 00:00:04 . Memory (MB): peak = 829.160 ; gain = 133.941
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:03 ; elapsed = 00:00:04 . Memory (MB): peak = 829.160 ; gain = 133.941
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a100tfgg484-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1127.449 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+RTL Elaboration Complete:  : Time (s): cpu = 00:00:16 ; elapsed = 00:00:15 . Memory (MB): peak = 1192.117 ; gain = 496.898
+7 Infos, 2 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:16 ; elapsed = 00:00:16 . Memory (MB): peak = 1192.117 ; gain = 496.898
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Apr 24 14:09:28 2020...

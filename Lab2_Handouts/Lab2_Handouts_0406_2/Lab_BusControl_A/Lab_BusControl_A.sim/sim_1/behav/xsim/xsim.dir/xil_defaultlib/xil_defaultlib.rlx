@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sim_1/new/topsim_link.v,1586864281,verilog,,,,topsim_link,,,,,,,,
+E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sources_1/new/controller_link.v,1586884456,verilog,,E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sources_1/new/io_interface_link.v,,controller_link,,,,,,,,
+E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sources_1/new/io_interface_link.v,1586884350,verilog,,E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sources_1/new/top_link.v,,io_interface_link,,,,,,,,
+E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sources_1/new/top_link.v,1586883308,verilog,,E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.srcs/sim_1/new/topsim_link.v,,top_link,,,,,,,,

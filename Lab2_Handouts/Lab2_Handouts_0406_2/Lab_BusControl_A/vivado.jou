@@ -1,0 +1,165 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Apr 14 08:38:06 2020
+# Process ID: 13184
+# Current directory: E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12028 E:\study\Computer System\Lab2_Handouts_0406_2\Lab2_Handouts_0406_2\Lab_BusControl_A\Lab_BusControl_A.xpr
+# Log file: E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/vivado.log
+# Journal file: E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_A/Lab_BusControl_A.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source topsim_link.tcl
+relaunch_sim
+synth_design -rtl -name rtl_1
+close_sim
+launch_simulation
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+refresh_design
+refresh_design
+close_sim
+launch_simulation
+source topsim_link.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source topsim_link.tcl
+refresh_design
+refresh_design
+close_sim
+launch_simulation
+source topsim_link.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source topsim_link.tcl
+run 10000 us
+close_sim
+launch_simulation
+source topsim_link.tcl
+run 10000 us
+run all
+restart
+run all
+restart
+run all
+close_sim
+launch_simulation
+source topsim_link.tcl
+restart
+run 10000 us
+restart
+run all
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+run 10000 us
+close_sim
+launch_simulation
+source topsim_link.tcl
+run all
+close_sim
+launch_simulation
+source topsim_link.tcl
+restart
+run all
+run all
+restart
+run all
+restart
+run all
+restart
+run all
+relaunch_sim
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+relaunch_sim
+restart
+relaunch_sim
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+refresh_design
+refresh_design
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+restart
+run all
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+close_sim
+launch_simulation
+source topsim_link.tcl
+restart
+run all
+close_sim

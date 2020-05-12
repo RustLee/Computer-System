@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_B/Lab_BusControl_B.srcs/sources_1/new/controller_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_B/Lab_BusControl_B.srcs/sources_1/new/io_interface_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module io_interface_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_B/Lab_BusControl_B.srcs/sources_1/new/top_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/study/Computer System/Lab2_Handouts_0406_2/Lab2_Handouts_0406_2/Lab_BusControl_B/Lab_BusControl_B.srcs/sim_1/new/topsim_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module topsim_counter
